@@ -1,0 +1,16 @@
+{
+  "name": "crisstrap",
+  "version": "1.0.0",
+  "description": "This is a self improvement project with Node.js and Webpack",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://CrisCoves@github.com/CrisCoves/crisstrap.git"
+  },
+  "author": "Cristina Coves Mora",
+  "bugs": {
+    "url": "https://github.com/CrisCoves/crisstrap/issues"
+  },
+  "homepage": "https://github.com/CrisCoves/crisstrap#readme"
+}

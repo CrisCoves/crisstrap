@@ -1,0 +1,5 @@
+.idea
+node_modules
+dist
+# apple finder storage file
+.DS_Store

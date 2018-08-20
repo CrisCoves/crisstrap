@@ -15,7 +15,13 @@
   },
   "homepage": "https://github.com/CrisCoves/crisstrap#readme",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
     "node-sass": "^4.9.2",
+    "opener": "^1.5.0",
     "webpack": "^4.16.5",
     "webpack-dev-server": "^3.1.5"
   },

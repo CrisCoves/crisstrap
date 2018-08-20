@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is a self improvement project with Node.js and Webpack",
   "scripts": {
+    "css": "node ./node-scripts/css.js"
   },
   "repository": {
     "type": "git",
@@ -12,5 +13,11 @@
   "bugs": {
     "url": "https://github.com/CrisCoves/crisstrap/issues"
   },
-  "homepage": "https://github.com/CrisCoves/crisstrap#readme"
+  "homepage": "https://github.com/CrisCoves/crisstrap#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.2"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
